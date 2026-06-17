@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 AgendaCraft
+#  AgendaCraft
 ### AI-Powered Meeting Agenda Generator
 
 **Transform unstructured team briefs, reports, and meeting notes into precise, time-budgeted agendas — in seconds.**
