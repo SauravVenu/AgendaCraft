@@ -16,6 +16,32 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/homepage.png)
+
+The landing page where users upload documents and generate AI-powered agendas.
+
+---
+
+### 📋 Generated Meeting Agenda
+
+![Generated Agenda](screenshots/generated-agenda.png)
+
+AI-generated agenda with stakeholders, action items, and time allocation.
+
+---
+
+### ⏱️ Live Facilitator Mode
+
+![Live Facilitator Mode](screenshots/live-agenda.png)
+
+Real-time meeting facilitation with countdown timer and agenda tracking.
+
+---
+
 ## 📌 Overview
 
 **AgendaCraft** is a full-stack web application that leverages Google's Gemini AI to intelligently parse source documents — project briefs, technical specs, email threads, or raw meeting notes — and automatically generate structured, time-allocated meeting agendas.
