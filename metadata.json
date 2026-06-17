@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Agenda Crafter",
+  "description": "Convert business reports, manuals, briefs, or direct text paste documents into fully structured, dynamically timed meeting agendas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
